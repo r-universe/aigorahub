@@ -5,3 +5,4 @@
 [submodule "sensR"]
 	path = sensR
 	url = https://github.com/aigorahub/sensr
+	subdir = sensR
